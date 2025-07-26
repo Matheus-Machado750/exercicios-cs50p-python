@@ -21,8 +21,8 @@ CS50P é uma introdução prática à programação usando Python. O curso abord
 
 ## 📁 Estrutura do repositório
 
-Cada pasta `psetX/` representa um conjunto de problemas (problem set) propostos no curso.  
-O diretório `projeto-final/` conterá meu projeto final, integrando os conceitos aprendidos.
+Cada pasta `pset/` representa um conjunto de problemas (problem set) propostos no curso.  
+O diretório `projeto-final/` conterá meu projeto final, integrando os conceitos aprendidos ao longo do curso.
 
 ```plaintext
 cs50p/
