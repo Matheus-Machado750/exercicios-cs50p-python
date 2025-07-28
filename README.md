@@ -34,6 +34,9 @@ cs50p/
 │   └── tip.py
 │
 ├── pset1/
+│   ├── deep.py
+│   ├── bank.py
+│   └── ...
 ├── pset2/
 ├── pset3/
 ├── pset4/
