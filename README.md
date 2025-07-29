@@ -36,6 +36,8 @@ cs50p/
 ├── pset1/
 │   ├── deep.py
 │   ├── bank.py
+│   ├── extensions.py
+│   ├── interpreter.py
 │   └── ...
 ├── pset2/
 ├── pset3/
