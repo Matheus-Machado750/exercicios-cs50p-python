@@ -39,6 +39,7 @@ cs50p/
 │   ├── extensions.py
 │   ├── interpreter.py
 │   └── meal.py
+|
 ├── pset2/
 ├── pset3/
 ├── pset4/
