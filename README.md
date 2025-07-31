@@ -38,7 +38,7 @@ cs50p/
 │   ├── bank.py
 │   ├── extensions.py
 │   ├── interpreter.py
-│   └── ...
+│   └── meal.py
 ├── pset2/
 ├── pset3/
 ├── pset4/
