@@ -41,6 +41,7 @@ cs50p/
 │   └── meal.py
 |
 ├── pset2/
+│   ├── camel.py
 ├── pset3/
 ├── pset4/
 ├── pset5/
