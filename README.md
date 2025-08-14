@@ -42,6 +42,7 @@ cs50p/
 |
 ├── pset2/
 │   ├── camel.py
+│   ├── coke.py
 ├── pset3/
 ├── pset4/
 ├── pset5/
