@@ -44,6 +44,7 @@ cs50p/
 │   ├── camel.py
 │   ├── coke.py
 │   ├── twttr.py
+│   ├── plates.py
 ├── pset3/
 ├── pset4/
 ├── pset5/
