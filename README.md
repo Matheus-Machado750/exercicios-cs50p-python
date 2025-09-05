@@ -45,6 +45,7 @@ cs50p/
 │   ├── coke.py
 │   ├── twttr.py
 │   ├── plates.py
+│   └── nutrition.py
 |
 ├── pset3/
 ├── pset4/
