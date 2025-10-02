@@ -48,6 +48,7 @@ cs50p/
 │   └── nutrition.py
 |
 ├── pset3/
+│   ├── fuel.py
 |
 ├── pset4/
 ├── pset5/
