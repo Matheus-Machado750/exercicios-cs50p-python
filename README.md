@@ -8,8 +8,8 @@ Soluções dos exercícios do curso “CS50’s Introduction to Programming with
 
 CS50P é uma introdução prática à programação usando Python. O curso aborda desde os conceitos básicos até tópicos mais avançados, incluindo:
 
-- Tipos de dados e variáveis
-- Condicionais e loops
+- Tipos de dados e variáveis 
+- Condicionais e loops 
 - Funções e escopo
 - Estruturas de dados (listas, dicionários, sets)
 - Leitura e escrita de arquivos
