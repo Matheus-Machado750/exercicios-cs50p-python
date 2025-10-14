@@ -49,6 +49,7 @@ cs50p/
 |
 ├── pset3/
 │   ├── fuel.py
+│   ├── taqueria.py
 |
 ├── pset4/
 ├── pset5/
