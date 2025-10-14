@@ -46,8 +46,3 @@ def ask_fraction():
             pass
 
 (main())
-
-
-
-
-#Tive ajuda do ChatGPT para a realização da atividade
