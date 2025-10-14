@@ -35,5 +35,3 @@ def pedido_completo():
             pass
 
 pedido_completo()
-
-#Obtive ajuda do ChatGPT para recordar do método .title(), adicionar o EOFError e fazer com que o output tenha 2 casas decimais
