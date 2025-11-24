@@ -50,6 +50,8 @@ cs50p/
 ├── pset3/
 │   ├── fuel.py
 │   ├── taqueria.py
+│   ├── grocery.py
+│   └── outdated.py
 |
 ├── pset4/
 ├── pset5/
