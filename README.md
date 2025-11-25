@@ -54,6 +54,8 @@ cs50p/
 │   └── outdated.py
 |
 ├── pset4/
+│   ├── emojize.py
+|
 ├── pset5/
 ├── pset6/
 ├── pset7/
