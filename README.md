@@ -55,6 +55,11 @@ cs50p/
 |
 ├── pset4/
 │   ├── emojize.py
+│   ├── figlet.py
+│   ├── adieu.py
+│   ├── game.py
+│   ├── professor.py
+│   └── bitcoin.py
 |
 ├── pset5/
 ├── pset6/
