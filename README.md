@@ -62,6 +62,9 @@ cs50p/
 │   └── bitcoin.py
 |
 ├── pset5/
+│   ├── test_twttr.py
+│   ├── test_bank.py
+|
 ├── pset6/
 ├── pset7/
 ├── pset8/
