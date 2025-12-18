@@ -64,6 +64,8 @@ cs50p/
 ├── pset5/
 │   ├── test_twttr.py
 │   ├── test_bank.py
+│   ├── test_plates.py
+│   └── test_fuel.py
 |
 ├── pset6/
 ├── pset7/
