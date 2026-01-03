@@ -68,12 +68,10 @@ cs50p/
 │   └── test_fuel.py
 |
 ├── pset6/
-│   ├── .py
-│   ├── .py
-│   ├── .py
-│   ├── .py
-│   ├── .py
-│   └── .py
+│   ├── lines.py
+│   ├── pizza.py
+│   ├── scourgify.py
+│   └── shirt.py
 |
 ├── pset7/
 |
