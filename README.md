@@ -68,7 +68,15 @@ cs50p/
 │   └── test_fuel.py
 |
 ├── pset6/
+│   ├── .py
+│   ├── .py
+│   ├── .py
+│   ├── .py
+│   ├── .py
+│   └── .py
+|
 ├── pset7/
+|
 ├── pset8/
 │
 └── projeto-final/
