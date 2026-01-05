@@ -74,6 +74,11 @@ cs50p/
 │   └── shirt.py
 |
 ├── pset7/
+│   ├── numb3rs.py
+│   ├── watch.py
+│   ├── working.py
+│   ├── um.py
+│   └── response.py
 |
 ├── pset8/
 │
