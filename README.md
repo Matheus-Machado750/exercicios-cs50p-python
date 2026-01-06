@@ -81,6 +81,12 @@ cs50p/
 │   └── response.py
 |
 ├── pset8/
+│   ├── seasons.py
+│   ├── jar.py
+│   └── shirtificate.py
 │
-└── projeto-final/
+├── projeto-final/
+│   ├── project.py
+│   └── test_project.py
+
 ```
