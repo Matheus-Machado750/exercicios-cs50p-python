@@ -1,30 +1,31 @@
 # 💻 exercicios-cs50p-python
 
-Soluções dos exercícios do curso “CS50’s Introduction to Programming with Python”, da Universidade Harvard. Este repositório tem como objetivo registrar minha evolução prática em Python.
+Repositório com as **soluções dos exercícios** do curso **“CS50’s Introduction to Programming with Python”**, oferecido pela **Universidade de Harvard**.  
+Este projeto foi utilizado para registrar minha **evolução prática em Python ao longo do curso**.
 
 ------------------
 
-![Interface do sistema](certificado_CS50_python.png)
+![Certificado do curso](certificado_CS50_python.png)
 
 ## 📚 Sobre o curso
 
-CS50P é uma introdução prática à programação usando Python. O curso aborda desde os conceitos básicos até tópicos mais avançados, incluindo:
+O CS50P é um curso introdutório de programação com foco em Python. Durante sua realização, foram abordados desde conceitos básicos até tópicos mais avançados, incluindo:
 
-- Tipos de dados e variáveis 
-- Condicionais e loops 
-- Funções e escopo
-- Estruturas de dados (listas, dicionários, sets)
-- Leitura e escrita de arquivos
-- Programação orientada a objetos (POO)
-- Expressões regulares
-- Testes, módulos e boas práticas de código
+- Tipos de dados e variáveis  
+- Condicionais e loops  
+- Funções e escopo  
+- Estruturas de dados (listas, dicionários e sets)  
+- Leitura e escrita de arquivos  
+- Programação orientada a objetos (POO)  
+- Expressões regulares  
+- Testes, módulos e boas práticas de código  
 
 ------------------
 
 ## 📁 Estrutura do repositório
 
-Cada pasta `pset/` representa um conjunto de problemas (problem set) propostos no curso.
-O diretório `projeto-final/` conterá meu projeto final, integrando os conceitos aprendidos por meio das aulas.
+Cada pasta `pset/` corresponde a um conjunto de problemas (**problem sets**) resolvidos ao longo do curso.  
+O diretório `projeto-final/` reúne o **projeto final desenvolvido**, no qual foram integrados diversos conceitos aprendidos durante as aulas.
 
 ```plaintext
 cs50p/
@@ -90,5 +91,3 @@ cs50p/
 ├── projeto-final/
 │   ├── project.py
 │   └── test_project.py
-
-```
