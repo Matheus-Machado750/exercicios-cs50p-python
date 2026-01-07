@@ -4,6 +4,8 @@ Soluções dos exercícios do curso “CS50’s Introduction to Programming with
 
 ------------------
 
+![Interface do sistema](certificado_CS50_python.png)
+
 ## 📚 Sobre o curso
 
 CS50P é uma introdução prática à programação usando Python. O curso aborda desde os conceitos básicos até tópicos mais avançados, incluindo:
