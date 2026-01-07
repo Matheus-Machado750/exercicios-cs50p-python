@@ -1,7 +1,6 @@
 # 💻 exercicios-cs50p-python
 
-Repositório com as **soluções dos exercícios** do curso **“CS50’s Introduction to Programming with Python”**, oferecido pela **Universidade de Harvard**.  
-Este projeto foi utilizado para registrar minha **evolução prática em Python ao longo do curso**.
+Repositório com as **soluções dos exercícios** do curso **“CS50’s Introduction to Programming with Python”**, oferecido pela **Universidade de Harvard**. Este repositório foi utilizado para registrar minha **evolução prática em Python ao longo do curso**.
 
 ------------------
 
