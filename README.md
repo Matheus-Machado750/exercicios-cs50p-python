@@ -8,7 +8,7 @@ Repositório com as **soluções dos exercícios** do curso **“CS50’s Introd
 
 ## 📚 Sobre o curso
 
-O CS50P é um curso introdutório de programação com foco em Python. Durante sua realização, foram abordados desde conceitos básicos até tópicos mais avançados, incluindo:
+O CS50P é um curso de programação com foco em Python. Durante sua realização, foram abordados desde conceitos básicos até tópicos mais avançados, incluindo:
 
 - Tipos de dados e variáveis  
 - Condicionais e loops  
